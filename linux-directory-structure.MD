@@ -4,7 +4,7 @@ Below is an overview of the most important directories you'll find in a typical 
 
 / is the root directory. Every other directory is part of /
 
-![alt text](roboshop.svg)![alt text](linux-structure.jpg)
+![alt text](linux-structure.jpg)
 
 **/bin:**
 
