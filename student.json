@@ -1,0 +1,17 @@
+{
+	"firstname": "Sivakumar",
+	"lastname": "M",
+	"dob": "2024-01-01",
+	"addresses": [
+		{
+			"type": "perm",
+			"doorno": "143",
+			"street": "gandi nagar"
+		},
+		{
+			"type": "perm",
+			"doorno": "143",
+			"street": "gandi nagar"
+		}
+	]
+}

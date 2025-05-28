@@ -1,0 +1,22 @@
+- firstname: sivakumar
+  lastname: m
+  email: info@joindevops.com
+  addresses: # list of addresses
+  - type: perm
+    doorNo: 143
+    street: gandhiNagar
+  - type: current
+    doorNo: 143
+    street: gandhiNagar
+
+
+- firstname: sivakumar
+  lastname: m
+  email: info@joindevops.com
+  addresses: # list of addresses
+  - type: perm
+    doorNo: 143
+    street: gandhiNagar
+  - type: current
+    doorNo: 143
+    street: gandhiNagar
